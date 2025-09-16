@@ -286,6 +286,7 @@ verify(databaseService, never()).deleteUser(anyLong());
 
 ---
 
-Bu proje ile JUnit ve Mockito'yu öğrenmek için gereken tüm temel bilgileri edinebilirsiniz. Her test sınıfı farklı konulara odaklanır ve progresif bir öğrenme deneyimi sunar. Sorularınız için issue açabilir veya kodu detaylı inceleyebilirsiniz.
+Bu proje ile JUnit ve Mockito'yu öğrenmek için gereken tüm temel bilgileri edinebilirsiniz. 
+Her test sınıfı farklı konulara odaklanır ve progresif bir öğrenme deneyimi sunar.
 
 **İyi çalışmalar! 🚀**
